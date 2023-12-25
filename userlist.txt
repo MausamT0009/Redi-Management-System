@@ -1,2 +1,1 @@
-MAUSAM,2021A3PS0310P,f20210310@pilani.bits-pilani.ac.in,8881538976
-mausam,0310,f@pilani.bits-pilani.ac.in,8881538976
+
